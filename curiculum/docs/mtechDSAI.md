@@ -1,6 +1,6 @@
-# M.Tech DSAI
-## COURSES
-### Semester 1
+# M.Tech DSAI Courses
+## CURRICULUM
+### Semester-I
 - CSDS701 - Advanced Data Structures and Algorithms
 - CSDS702 - Mathematical Foundations for Data Science
 - CSDS703 - Artificial Intelligence and Data Mining
@@ -10,7 +10,7 @@
 - CSDS706 - Laboratory II (AI and Data Mining Lab)
 - Audit Course-01
 
-### Semester 2
+### Semester-II
 - CSDS751 - Machine Learning and Deep Learning
 - CSDS752 - Big Data Analytics
 - CSDS753 - Security for Data Science
@@ -20,15 +20,16 @@
 - CSDS755 - Laboratory- IV (Big Data Analytics Lab)
 - Audit Course-02
 
-### Semester 3
+### Semester-III
 - Elective-4
 - Open Elective-1*
 - CSDS707 - Research Methodology
 - CSDS708 - Project Work (Phase-1)
 
-### Semester 4
+### Semester-IV
 - CSDS756 - Project Work (Phase-2)
 - CSDS757 - Project Report and Viva voce
+
 
 ## LIST OF ELECTIVES
 ### Semester-I
